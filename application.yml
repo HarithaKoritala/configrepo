@@ -4,6 +4,6 @@ my:
   values: One, Two, Three
 
 db:
-  connection: connection string from config server1
+  connection: connection string from config server2
   host: 127.0.0.1
   port: 1200
